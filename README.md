@@ -18,10 +18,10 @@ git clone github.com/Gn1daa/calc_go
  ```bash
  go run ./cmd/main.go
  ```
-Примѣръ для достовѣрнаго выраженія:
+## Примѣръ для достовѣрнаго выраженія:
 ![image](https://github.com/user-attachments/assets/f47aff36-3e51-4609-be9b-0a8158fcf0be)
-Примѣръ для выраженія содержащаго дѣленіе на ноль:
+## Примѣръ для выраженія содержащаго дѣленіе на ноль:
 ![image](https://github.com/user-attachments/assets/17f6dce2-15d2-4093-a0b9-39203de46ed0)
-Примѣръ для недостовѣрнаго выраженія содержащаго лишнюю открывающую скобку:
+## Примѣръ для недостовѣрнаго выраженія содержащаго лишнюю открывающую скобку:
 ![image](https://github.com/user-attachments/assets/9f5bef78-798a-4296-b809-c59b35be7a60)
 
